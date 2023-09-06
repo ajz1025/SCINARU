@@ -1,11 +1,13 @@
 ---
-title: "My Website"
+title: "SCINARÚ by Astrid"
 ---
 
-Hello, Website!
+Welcome to SCINARÚ by Astrid!
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+![*SCINARÚ, "Women of Science"*](SCINARU.png)
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+**This platform name is a meaningful fusion of two words: "sci," representing science in English, and "INARÚ," which translates to "women" in the indigenous Taíno language. This combination symbolizes "Women of Science" and reflects my identity as the founder, a scientist in training.**
 
+**In selecting this name, I pay homage to my ancestral roots, acknowledging the wisdom of the Taíno people who once inhabited the lands I now call home. SCINARU is dedicated to celebrating Latin and Puerto Rican women in the field of science, drawing inspiration from our heritage while looking towards a future where diversity thrives in scientific exploration.**
 
+**The mission is to provide a platform that empowers and represents Latin and Puerto Rican women in science, fostering an inclusive and supportive community. Aiming to share stories, insights, and knowledge that inspire the next generation of scientists and create a space where all voices are heard.**
